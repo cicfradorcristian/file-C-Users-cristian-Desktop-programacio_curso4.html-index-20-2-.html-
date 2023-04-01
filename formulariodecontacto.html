@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+	<meta charset="utf-8">
+  <title>Cv Cristian Bruno</title>
+   
+
+   <link rel="stylesheet" href="reset.css" >
+   <link rel="stylesheet" href="style.css">
+<link rel="stylesheet"   type="text/css" href="style-formulario.css">
+</head>
+<body>
+    <h1 class="formulario">Formulario de contacto</h1>
+ 
+ <main>
+        <form >
+
+            
+            <label for="nombreapellido">Nombre y apellido</label>
+            <input type="text" id="nombreapellido" class="input-padron" required>
+            <label for="correoelectronico">Correo Electronico</label>
+            <input type="email" id="correoelectronico"class="input-padron"required placeholder="email@dominio.com">
+            <label for="telefono">Telefono</label>
+            <input type="tel" id="telefono"class="input-padron"required placeholder="xx xxxx xxxx">
+  
+        <label for="mensaje">Mensaje</label>
+        <textarea cols="70"  rows="10" id= "mensaje"class="input-padron" required></textarea>
+        <input type="submit"  value="Enviar"  class="enviar" alert= "se ha enviado correctamente"> 
+        
+        
+
+
+</form>
+</main>
+
+<div class="boton">
+<p id="demo">A la brevedad me contactare con usted</p>
+<button type="button" id='boton'>Click aqui </button>
+</div>
+
+<script src= "formulario.js"></script>
+</body>
+</html>
+    

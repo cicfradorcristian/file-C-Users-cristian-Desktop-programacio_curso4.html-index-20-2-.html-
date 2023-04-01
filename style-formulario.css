@@ -1,0 +1,66 @@
+body{
+	background-color:  #A1FFCE;
+margin-top: 10px;
+margin-left: 100px;
+}
+.boton{
+	padding-top: 100px;
+font-weight: bold;
+color: darkred;
+}
+
+#demo{
+	color: darkblue;
+	font-size: 20px;
+
+}
+.formulario{
+	text-align: center;
+	font-size: 30px;
+font-weight: bold;
+color: darkred;
+text-decoration-line: underline;
+
+}
+
+ main{
+ 	margin-right: 100px;
+ font-weight: bold;
+ }
+ .enviar{
+width: 40%;
+padding: 15px 0 ;
+font-size: 18px;
+font-weight: bold;
+color: white;
+background: orange;
+border-radius: 5px;
+transition: 1s all;
+
+}
+.enviar:hover{
+background: darkorange;
+transform: scale(1.2);
+
+
+}
+
+.input-padron{
+ display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width:50%;
+
+
+}
+form{
+    margin: 40px 0;
+}
+
+}
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+
+}

@@ -1,0 +1,38 @@
+.antecedentes{
+text-align:center ;
+color: red;
+font-weight: bold;
+ font-size: 30px;
+padding-top: 30px;
+}
+
+
+.items{
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+
+}
+p{
+
+text-align: center;
+padding-top: 10px;
+color: blue;
+}
+.habilidades{
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+color: red;
+}
+.lenguajes{
+	margin: 10px;
+
+}
+.inicio{
+background-image: initial;
+
+}
+body{
+	background: #A1FFCE;
+}

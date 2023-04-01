@@ -1,0 +1,21 @@
+.formacion{
+text-align: center;
+font-weight: bold;
+color: red;
+margin-right: 10px;
+font-size: 30px;
+padding: 30px;
+}
+.items{
+    margin-top: 10px;
+	text-align: center;
+	font-weight: bold;
+
+}
+p{
+	text-align: center;
+	color: blue;
+}
+body{
+	background: #A1FFCE;
+}

@@ -1,0 +1,76 @@
+
+.inicio{
+background-image: url("imagenes/escritorio.jpg");	
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+.foto{
+	text-align: center;
+
+
+}
+
+.caja a {
+	padding-left: 50px ;
+
+
+}
+
+.titulo-principal{
+	font-weight: bold;
+    font-size: 2rem;
+    font-size: 30px;
+text-align: center;
+padding: 20px 0;
+color: white;
+}
+.redes{
+text-align: center;
+color: #940253;
+font-size: 2rem;
+}
+
+
+.perfil{
+
+font-weight: bold;
+padding-left: 100px 
+
+}
+
+.resumen{
+
+	text-align: center;
+}
+.resumen p{
+padding: 10px 0;
+
+
+}
+.resumen i {
+padding-top: 100px;
+
+}
+.info{
+font-weight: bold;
+font-size: 20px;
+margin-top: 10px;
+
+
+}
+.contactos i{
+	margin-top: 10px;
+
+}
+.contactos{
+	text-align: center;
+}
+body{
+background: #86a8e7
+;
+}
+header { 
+background:  #86a8e7;
+padding: 20px;
+}
